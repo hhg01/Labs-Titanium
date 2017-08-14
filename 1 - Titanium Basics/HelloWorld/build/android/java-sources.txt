@@ -1,0 +1,8 @@
+"/home/hector/Appcelerator_Studio_Workspace/HelloWorld/build/android/gen/android/support/v7/appcompat/R.java"
+"/home/hector/Appcelerator_Studio_Workspace/HelloWorld/build/android/gen/android/support/v7/cardview/R.java"
+"/home/hector/Appcelerator_Studio_Workspace/HelloWorld/build/android/gen/com/hector/helloworld/AssetCryptImpl.java"
+"/home/hector/Appcelerator_Studio_Workspace/HelloWorld/build/android/gen/com/hector/helloworld/HelloworldActivity.java"
+"/home/hector/Appcelerator_Studio_Workspace/HelloWorld/build/android/gen/com/hector/helloworld/HelloworldAppInfo.java"
+"/home/hector/Appcelerator_Studio_Workspace/HelloWorld/build/android/gen/com/hector/helloworld/HelloworldApplication.java"
+"/home/hector/Appcelerator_Studio_Workspace/HelloWorld/build/android/gen/com/hector/helloworld/R.java"
+"/home/hector/Appcelerator_Studio_Workspace/HelloWorld/build/android/gen/ti/modules/titanium/ui/R.java"
