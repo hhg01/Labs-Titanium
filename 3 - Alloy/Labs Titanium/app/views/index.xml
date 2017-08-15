@@ -1,0 +1,10 @@
+<Alloy>
+	<TabGroup>
+		<Tab title="Fugitivos">
+			<Window/>
+		</Tab>
+		<Tab title="Capturados">
+			<Window/>
+		</Tab>
+	</TabGroup>
+</Alloy>
