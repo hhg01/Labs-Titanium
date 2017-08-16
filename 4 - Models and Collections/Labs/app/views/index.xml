@@ -1,0 +1,25 @@
+<Alloy>
+	<Collection src="Fugitivos"/>
+	<TabGroup>
+	<Tab title="Fugitivos">
+		<Window>
+			<TableView id="tbFugitivos" dataCollection="Fugitivos">
+				<TableViewRow id="listRow">
+					<View id="componentView">
+		    			<Label id="lblValue" text="{nombre}"></Label>
+					</View>
+				</TableViewRow>
+			</TableView>
+		</Window>
+	</Tab>
+	<Tab title="Capturados">
+		<Window>
+			<TableView>
+				<TableViewRow>
+					
+				</TableViewRow>
+			</TableView>
+		</Window>
+	</Tab>
+	</TabGroup>
+</Alloy>
