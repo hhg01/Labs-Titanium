@@ -1,0 +1,14 @@
+<Alloy>
+	<Collection src="Fugitivos"/>
+	<Tab title="Fugitivos">
+		<Window>
+			<TableView dataCollection="Fugitivos">
+				<TableViewRow id="listRow">
+					<View>
+		    			<Label id="lblValue" text="{nombre}"></Label>
+					</View>
+				</TableViewRow>
+			</TableView>
+		</Window>
+	</Tab>
+</Alloy>

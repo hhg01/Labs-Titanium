@@ -1,0 +1,11 @@
+<Alloy>
+	<Tab title="Capturados">
+		<Window>
+			<TableView  id="listRow">
+				<TableViewRow>
+					
+				</TableViewRow>
+			</TableView>
+		</Window>
+	</Tab>
+</Alloy>
