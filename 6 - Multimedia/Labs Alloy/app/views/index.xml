@@ -1,0 +1,6 @@
+<Alloy>
+	<TabGroup>
+		<Require src="Fugitivos"></Require>
+		<Require src="Capturados"></Require>
+	</TabGroup>
+</Alloy>

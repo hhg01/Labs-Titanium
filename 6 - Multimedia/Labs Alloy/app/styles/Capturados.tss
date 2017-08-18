@@ -1,0 +1,11 @@
+"Window":{
+	backgroundColor: "#263238"
+},
+"#listRow":{
+	width:Ti.UI.FILL,
+	height:"60dp"
+}/*,
+"#lblValue":{
+	left:0,
+	color:"white"
+}*/

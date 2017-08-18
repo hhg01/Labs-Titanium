@@ -1,0 +1,22 @@
+"Window":{
+	backgroundColor: "#263238"
+},
+"#icon":{
+	width:Titanium.UI.SIZE,
+	height:"180dp",
+	width:"180dp",
+	top:"20dp",
+	backgroundColor: "cyan"
+},
+"#idFoto":{
+	top:"220dp",
+	width:"120dp"
+},
+"#idCapturado":{
+	top:"280dp",
+	width:"120dp"
+},
+"#idEliminar":{
+	top:"340dp",
+	width:"120dp"
+}

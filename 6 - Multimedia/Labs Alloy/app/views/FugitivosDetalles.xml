@@ -1,0 +1,10 @@
+<Alloy>
+	<Window>
+		<ScrollView>
+			<ImageView id="icon"/>
+			<Button id="idFoto" title="Foto" onClick="tomarFoto"></Button>
+			<Button id="idCapturado" title="Capturar" onClick="capturado"></Button>
+			<Button id="idEliminar" title="Eliminar" onClick="eliminado"></Button>
+		</ScrollView>
+	</Window>
+</Alloy>

@@ -1,0 +1,14 @@
+<Alloy>
+	<Collection src="Fugitivos"/>
+	<Tab title="Fugitivos">
+		<Window>
+			<ScrollView>
+				<TableView dataCollection="Fugitivos">
+					<TableViewRow onLongclick="arrestado" onClick="detalles" id="listRow" id="lblValue" text="{nombre}">
+						
+					</TableViewRow>
+				</TableView>
+			</ScrollView>
+		</Window>
+	</Tab>
+</Alloy>
