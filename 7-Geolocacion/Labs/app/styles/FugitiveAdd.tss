@@ -1,0 +1,26 @@
+".container": {
+	backgroundColor: "#263238"
+},
+"#fugitiveAddWindow" : {
+		title:"New Fugitive",
+		layout:'vertical',
+},
+
+"#name_tf" : {
+		height: 40,
+		top:50,
+		width:250,
+		keyboardType:Titanium.UI.KEYBOARD_DEFAULT,
+		returnKeyType:Titanium.UI.RETURNKEY_DONE,
+		borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED,
+		hintText:'Fugitive Name'
+},
+"#name_tf[platform=android]" : {
+		height:Ti.UI.SIZE ,
+},
+"#save_button" :{
+		title:"Save",
+		height:Ti.UI.SIZE,
+		width:'80dp',
+		top:10
+}

@@ -1,0 +1,11 @@
+"#mapWindow":{
+	title : "Locacion de Captura",
+	backgroundColor:'#263238'
+},
+"#mapView" : {
+	mapType: Alloy.Globals.Map.STANDARD_TYPE,
+	animate:true,
+	regionFit:true,
+	userLocation:false,
+	annotations:[]
+}

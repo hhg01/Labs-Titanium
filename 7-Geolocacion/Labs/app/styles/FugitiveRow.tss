@@ -1,0 +1,20 @@
+"Label": {
+	color: "#000",
+	font: {
+		fontSize: "20dp"
+	}
+},
+".vgroup": {
+	layout: "vertical",
+	height: Ti.UI.SIZE
+},
+"#name": {
+	top: "10dp",
+	height: Ti.UI.SIZE,
+	left: "5dp",
+	right: "5dp",
+	font: {
+		fontSize: "18dp"
+	},
+	color: '#fff'
+},

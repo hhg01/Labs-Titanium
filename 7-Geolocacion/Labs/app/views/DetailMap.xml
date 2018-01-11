@@ -1,0 +1,14 @@
+<Alloy>
+	<Window id="windowMap">
+		<View id="mapview" animate="true" regionFit="true" userLocation="true" mapType="Ti.Map.STANDARD_TYPE">
+
+            <Annotation id="mountainView"
+              latitude="37.390749" longitude="-122.081651"
+              title="Appcelerator Headquarters" subtitle="Mountain View, CA"
+              myid="1"/>
+
+            <!-- Place other child views here, such as an ImageView to add an overlay. -->
+
+        </View>
+	</Window>
+</Alloy>
